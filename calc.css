@@ -1,0 +1,14 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+    border: 1px solid lightslategray; 
+}
+tr {
+    height: 50px;
+}
+.button {
+    text-align: center;
+    padding: 10px 24px;
+}
+
